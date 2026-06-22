@@ -24,6 +24,19 @@
 
 ---
 
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://abdulportfolio-ten.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+🔗 Portfolio Website: https://abdulportfolio-ten.vercel.app/
+
+Showcasing React Native mobile applications, case studies, technical expertise, and project highlights.
+
+
 ## 🛠 Tech Stack
 
 ### Mobile Development
