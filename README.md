@@ -32,8 +32,6 @@
   </a>
 </p>
 
-🔗 Portfolio Website: https://abdulportfolio-ten.vercel.app/
-
 Showcasing React Native mobile applications, case studies, technical expertise, and project highlights.
 
 
