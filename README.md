@@ -95,10 +95,6 @@ Showcasing React Native mobile applications, case studies, technical expertise, 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdulrehman58&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrehman58&layout=compact&theme=tokyonight"/>
 </p>
 
